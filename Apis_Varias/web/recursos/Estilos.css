@@ -1,0 +1,85 @@
+#left
+{
+  position: relative; float: left;  
+}
+.login
+{
+    margin: 0px auto;
+    width:500px;
+    height: 530px;
+    margin-top:25px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 6px 66px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 66px -12px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 66px -12px rgba(0,0,0,0.75);
+    
+}
+#inf_personal
+{
+    margin: 0px auto;
+    width:400px;
+    height: 530px;
+    margin-top:25px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 6px 66px -12px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 6px 66px -12px rgba(0,0,0,0.75);
+    box-shadow: 0px 6px 66px -12px rgba(0,0,0,0.75);
+    
+}
+.imgP
+{   
+    
+    background: url(https://img.icons8.com/fluent/50/000000/twitter.png);    
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-color: white;
+    
+}
+.ajuste:hover{
+        
+    transform:scale(2); 
+    border: 1px slategrey solid;
+}
+.imgY
+{    
+    background: url(https://img.icons8.com/color/48/000000/yahoo-mail-app.png);    
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;     
+    background-color: white;
+}
+.imgM
+{    
+    background: url(https://img.icons8.com/color/48/000000/microsoft.png);    
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-color: white;
+}
+.imgG
+{ 
+    background: url(https://img.icons8.com/fluent/48/000000/github.png);    
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;   
+    background-color: white;
+}
+.imgGo
+{    
+    background: url(https://img.icons8.com/fluent/48/000000/google-logo.png);    
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-color: white;
+}
+.imgF{
+    background: url(https://img.icons8.com/color/48/000000/facebook.png);    
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;    
+    background-color: white;
+}
+.ajuste{
+    width: 100%;
+}
